@@ -12,8 +12,9 @@
   <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" width="95"> 
 <br><br>
 ## 🚩프로젝트
-[포트폴리오 모아보기👀](https://linkbrary-9-99.vercel.app/share/840)
-[포트폴리오 사이트 구경하기👀](https://www.hongyelim.site)
+  [포트폴리오 방문하기👀](https://www.hongyelim.site)<br>
+[프로젝트 배포링크 모아보기](https://linkbrary-9-99.vercel.app/share/840)
+
   ## 💬 Contact
   
   <a href="mailto:hongggy@gmail.com">
