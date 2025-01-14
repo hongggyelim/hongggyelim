@@ -8,11 +8,12 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white">  <br>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">  <br><br>
-
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">  
+  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" width="95"> 
+<br><br>
 ## 🚩프로젝트
 [포트폴리오 모아보기👀](https://linkbrary-9-99.vercel.app/share/840)
-
+[포트폴리오 사이트 구경하기👀](https://www.hongyelim.site)
   ## 💬 Contact
   
   <a href="mailto:hongggy@gmail.com">
