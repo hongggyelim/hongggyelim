@@ -13,7 +13,7 @@
 <br><br>
 ## 🚩프로젝트
   [포트폴리오 방문하기👀](https://www.hongyelim.site)<br>
-[프로젝트 배포링크 모아보기](https://linkbrary-9-99.vercel.app/share/840)
+[프로젝트 배포링크 모아보기](https://linkbrary-redeploy.vercel.app/share/936)
 
   ## 💬 Contact
   
