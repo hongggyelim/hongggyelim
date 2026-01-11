@@ -1,25 +1,29 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20Frontend%20Developer%20홍예림&height=150&fontSize=40&fontColor=000">
-  
-  ## 🔧Tech Stack
-  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white">  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=JavaScript&logoColor=white">  <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white">  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" width="95"> 
-<br><br>
-## 🚩프로젝트
-  [포트폴리오 방문하기👀](https://www.hongyelim.site)<br>
-[프로젝트 배포링크 모아보기](https://linkhere.vercel.app/share/936)
+## Hong Yelim • FE developer
 
-  ## 💬 Contact
+### Language & Tools
   
-  <a href="mailto:hongggy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://memoryelim.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" />
-  </a>
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vanilla Extract](https://img.shields.io/badge/Vanilla--Extract-DB7093?style=flat&logo=css3&logoColor=white)
+
+![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=flat&logo=turborepo&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+
+<br/>
+
+  ### Contact
+  
+<a href="mailto:hongggy@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
+<a href="https://memoryelim.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white" />
+</a>
+
